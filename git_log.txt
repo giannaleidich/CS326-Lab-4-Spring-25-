@@ -1,0 +1,51 @@
+commit d17a9509f252f209d3028b0c7ebd2e5c0ab16f19
+Merge: cca26b3 48aebf3 5d199bf
+Author: Gianna <gleidich2@gmail.com>
+Date:   Fri Feb 21 11:50:33 2025 -0500
+
+    Merge branches 'branchB' and 'branchA'
+
+commit cca26b3d5ce5e29bc3672e1948300a5464aabe16
+Merge: 0bff31a 9afce99
+Author: Mashrur Rashik <mashrur639@gmail.com>
+Date:   Thu Feb 20 23:51:58 2025 -0500
+
+    Merge pull request #1 from Catkamakura/main
+    
+    Update README.md
+
+commit 9afce992be0f03546359d6ecd3d6f215d1c34807
+Author: Ghoti <49800276+Catkamakura@users.noreply.github.com>
+Date:   Thu Feb 20 23:47:13 2025 -0500
+
+    Update README.md
+
+commit 0bff31ab931e6c4a193e94259ca98d1aae978ff4
+Author: Mashrur Rashik <mashrur639@gmail.com>
+Date:   Thu Feb 20 21:22:11 2025 -0500
+
+    updated readme title
+
+commit afa681a4942c573f7de0b70bdd13170a9d281694
+Author: Mashrur Rashik <mashrur639@gmail.com>
+Date:   Thu Feb 20 21:20:57 2025 -0500
+
+    added readme with instructions
+
+commit 48aebf3cd03d0e51b92e5ab2db5f0e4c279d07b1
+Author: Mashrur Rashik <mashrur639@gmail.com>
+Date:   Thu Feb 20 21:08:28 2025 -0500
+
+    Update main.txt in branchB
+
+commit 5d199bf42a2dd5ce93456ad5d5f6c28aecc02119
+Author: Mashrur Rashik <mashrur639@gmail.com>
+Date:   Thu Feb 20 21:07:20 2025 -0500
+
+    Update main.txt in branchA
+
+commit 214cbb12b152717d45fca35dc3025433844e92e9
+Author: Mashrur Rashik <mashrur639@gmail.com>
+Date:   Thu Feb 20 21:05:59 2025 -0500
+
+    Initial commit with base content
